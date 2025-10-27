@@ -7,4 +7,5 @@
 3. Variables
 4. Constantes
 5. For Loop
-6. Cards project
+6. CHECKPOINT 1
+7. Cards project
