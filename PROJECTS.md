@@ -6,6 +6,9 @@
 2. Values
 3. Variables
 4. Constantes
-5. For Loop
-6. CHECKPOINT 1
-7. Cards project
+5. If & Switch Statements
+6. Arrays
+7. Slices
+8. For Loop
+9. CHECKPOINT 1
+10. Cards project
