@@ -33,3 +33,13 @@ func showItems(items []string) {
 		fmt.Println(item)
 	}
 }
+
+func evenOrOdd(items []int) {
+	for _, n := range items {
+		if n%2 == 0 {
+			fmt.Println("Even")
+		} else {
+			fmt.Println("Odd")
+		}
+	}
+}
