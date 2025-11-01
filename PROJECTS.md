@@ -12,3 +12,4 @@
 8. For Loop
 9. CHECKPOINT 1
 10. Cards project
+11. Structs
